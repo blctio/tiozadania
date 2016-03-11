@@ -1,0 +1,6 @@
+c:\users\x230\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Zadania1.exe.config
+c:\users\x230\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Zadania1.exe
+c:\users\x230\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\Zadania1.pdb
+c:\users\x230\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\Zadania1.csprojResolveAssemblyReference.cache
+c:\users\x230\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\Zadania1.exe
+c:\users\x230\documents\visual studio 2015\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\Zadania1.pdb
