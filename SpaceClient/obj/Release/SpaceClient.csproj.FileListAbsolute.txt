@@ -1,0 +1,6 @@
+C:\Users\X230\Documents\Visual Studio 2015\Projects\Zadania2\SpaceClient\bin\Release\SpaceClient.exe.config
+C:\Users\X230\Documents\Visual Studio 2015\Projects\Zadania2\SpaceClient\bin\Release\SpaceClient.exe
+C:\Users\X230\Documents\Visual Studio 2015\Projects\Zadania2\SpaceClient\bin\Release\SpaceClient.pdb
+C:\Users\X230\Documents\Visual Studio 2015\Projects\Zadania2\SpaceClient\obj\Release\SpaceClient.exe
+C:\Users\X230\Documents\Visual Studio 2015\Projects\Zadania2\SpaceClient\obj\Release\SpaceClient.pdb
+C:\Users\X230\Documents\Visual Studio 2015\Projects\Zadania2\SpaceClient\obj\Release\SpaceClient.csprojResolveAssemblyReference.cache
