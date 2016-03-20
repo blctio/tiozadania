@@ -1,6 +1,0 @@
-c:\users\x230\documents\visual studio 2015\Projects\Zadania2\Space\bin\Debug\Space.exe.config
-c:\users\x230\documents\visual studio 2015\Projects\Zadania2\Space\bin\Debug\Space.exe
-c:\users\x230\documents\visual studio 2015\Projects\Zadania2\Space\bin\Debug\Space.pdb
-c:\users\x230\documents\visual studio 2015\Projects\Zadania2\Space\obj\Debug\Space.csprojResolveAssemblyReference.cache
-c:\users\x230\documents\visual studio 2015\Projects\Zadania2\Space\obj\Debug\Space.exe
-c:\users\x230\documents\visual studio 2015\Projects\Zadania2\Space\obj\Debug\Space.pdb
